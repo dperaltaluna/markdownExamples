@@ -47,7 +47,7 @@ const mongoose = require('mongoose');
 
 
 ```javascript 
-`cosole.log('hello world');`
+cosole.log('hello world');
 const mongoose = require('mongoose');
 const mongoose = require('mongoose');
 ```
